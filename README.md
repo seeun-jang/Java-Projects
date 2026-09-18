@@ -43,3 +43,22 @@ Getter / Setter를 활용한 마법 포션 안정성 테스트 프로그램입�
 | Status       : STABLE          |
 +--------------------------------+
 ```
+---
+
+## 🦩 Flamingo Balance Game
+
+Java Swing을 활용한 플라밍고 균형 유지 게임입니다.
+
+- A / D 키를 이용한 좌우 균형 조절
+- 랜덤 바람 방향과 세기 적용
+- 실시간 균형 게이지 표시
+- 생존 시간 점수 기록
+- 균형을 잃으면 Game Over
+- R 키를 이용한 게임 재시작
+
+### Controls
+
+```text
+A : Move Left
+D : Move Right
+R : Restart
