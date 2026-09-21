@@ -45,7 +45,9 @@ Getter / Setter를 활용한 마법 포션 안정성 테스트 프로그램입�
 ```
 ---
 
-## 🦩 Flamingo Balance Game
+## 🦩 Flamingo Balance Game  
+
+#### 실행링크 https://seeun-jang.github.io/Java-Projects/
 
 Java Swing을 활용한 플라밍고 균형 유지 게임입니다.
 
