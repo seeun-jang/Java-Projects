@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flamingo Balance Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="game-wrapper">
+    <h1>🦩 Flamingo Balance Game</h1>
+    <p class="guide">A : Left / D : Right / R : Restart</p>
+
+    <div class="info-row">
+        <div id="wind">Wind: CALM</div>
+        <div id="score">Survival: 0 sec</div>
+    </div>
+
+    <div class="balance-area">
+        <span>LEFT</span>
+
+        <div class="balance-bar">
+            <div class="center-line"></div>
+            <div id="marker"></div>
+        </div>
+
+        <span>RIGHT</span>
+    </div>
+
+    <div id="game-area">
+
+        <div id="flamingo">
+            <div class="head"></div>
+            <div class="beak"></div>
+            <div class="neck"></div>
+            <div class="body"></div>
+            <div class="leg"></div>
+        </div>
+
+        <div class="ground"></div>
+
+        <div id="game-over" class="hidden">
+            <h2>GAME OVER</h2>
+            <p id="final-score"></p>
+            <p>Press R to restart</p>
+        </div>
+
+    </div>
+</div>
+
+<script src="game.js"></script>
+
+</body>
+</html>
+
