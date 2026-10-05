@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlamingoBalanceGame/FlamingoBalanceGame.iml" filepath="$PROJECT_DIR$/FlamingoBalanceGame/FlamingoBalanceGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Projects.iml" filepath="$PROJECT_DIR$/.idea/Java-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MagicPotionLab/MagicPotionLab.iml" filepath="$PROJECT_DIR$/MagicPotionLab/MagicPotionLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniLottoGenerator/MiniLottoGenerator.iml" filepath="$PROJECT_DIR$/MiniLottoGenerator/MiniLottoGenerator.iml" />
+    </modules>
+  </component>
+</project>
